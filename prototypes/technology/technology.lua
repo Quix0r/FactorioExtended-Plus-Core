@@ -38,7 +38,7 @@ data:extend(
     localised_description = {"technology-name.upgraded-tools"},
     icon = "__FactorioExtended-Plus-Core__/graphics/technology/hammer-wrench.png",
     icon_size = 128,
-    prerequisites = {"titanium-processing", "advanced-electronics"},
+    prerequisites = {"titanium-processing", "advanced-circuit"},
     effects =
     {
       {
@@ -70,7 +70,7 @@ data:extend(
     localised_description = {"technology-name.upgraded-tools-2"},
     icon = "__FactorioExtended-Plus-Core__/graphics/technology/hammer-wrench.png",
     icon_size = 128,
-    prerequisites = {"upgraded-tools", "advanced-electronics-2"},
+    prerequisites = {"upgraded-tools", "processing-unit"},
     effects =
     {
       {

@@ -7,12 +7,11 @@ data:extend({
     enabled = false,
     ingredients = 
     {
-      {"iron-ore", 2},
+      {type="item", name="iron-ore", amount=2},
       {type="fluid", name="sulfuric-acid", amount=5},
       {type="fluid", name="water", amount=2}
     },
-    result = "titanium-ore",
-    result_count = 2
+    results = {{type="item", name="titanium-ore", amount=2}}
   },
   {
     type = "recipe",
@@ -22,9 +21,9 @@ data:extend({
     energy_required = 5,
     ingredients = 
     {
-      {"titanium-ore", 1}
+      {type="item", name="titanium-ore", amount=1}
     },
-    result = "titanium-alloy"
+    results = {{type="item", name="titanium-alloy",amount=1}}
   },
   {
     type = "recipe",
@@ -32,11 +31,11 @@ data:extend({
     energy_required = 0.5,
     ingredients = 
     {
-      {"plastic-bar", 5},
-      {"steel-plate", 1},
-      {"electronic-circuit", 1}
+      {type="item", name="plastic-bar", amount=5},
+      {type="item", name="steel-plate", amount=1},
+      {type="item", name="electronic-circuit", amount=1}
     },
-    result = "pollution-filter"
+    results = {{type="item", name="pollution-filter", amount=1}}
   },
   {
     type = "recipe",
@@ -45,11 +44,11 @@ data:extend({
     energy_required = 0.5,
     ingredients = 
     {
-      {"repair-pack", 2},
-      {"iron-gear-wheel", 1},
-      {"advanced-circuit", 1}
+      {type="item", name="repair-pack", amount=2},
+      {type="item", name="iron-gear-wheel", amount=1},
+      {type="item", name="advanced-circuit", amount=1}
     },
-    result = "repair-pack-mk2"
+    results = {{type="item", name="repair-pack-mk2", amount=1}}
   },
   {
     type = "recipe",
@@ -58,10 +57,10 @@ data:extend({
     energy_required = 0.5,
     ingredients = 
     {
-      {"repair-pack-mk2", 2},
-      {"iron-gear-wheel", 1},
-      {"processing-unit", 1}
+      {type="item", name="repair-pack-mk2", amount=2},
+      {type="item", name="iron-gear-wheel", amount=1},
+      {type="item", name="processing-unit", amount=1}
     },
-    result = "repair-pack-mk3"
+    results = {{type="item", name="repair-pack-mk3", amount=1}}
   }
 })

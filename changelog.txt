@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 19-02-2025
+  Fixes:
+    - bumped to version 2.0.32
+    - changed "result" (simple string) to "results" (table)
+    - there is no result_count anymore, it has been merged with "result" into table "results"
+    - there is no support for short-hand arrays {"item-name", n}, you need to always use full table
+    - moved recipe-functions to "lib", as this is neither a recipe nor a prototype
+    - dropped support for short-hand array as the game does it, too
+    - advanced-electronics -> advanced-circuit
+    - advanced-electronics-2 -> processing-unit
+---------------------------------------------------------------------------------------------------
 Version: 2.0.0
 Date: 25-10-2024
   Changes:
