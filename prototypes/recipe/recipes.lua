@@ -11,6 +11,7 @@ data:extend({
       {type="fluid", name="sulfuric-acid", amount=5},
       {type="fluid", name="water", amount=2}
     },
+    allow_productivity = true,
     results = {{type="item", name="titanium-ore", amount=2}}
   },
   {
@@ -23,6 +24,7 @@ data:extend({
     {
       {type="item", name="titanium-ore", amount=1}
     },
+    allow_productivity = true,
     results = {{type="item", name="titanium-alloy",amount=1}}
   },
   {
@@ -35,6 +37,7 @@ data:extend({
       {type="item", name="steel-plate", amount=1},
       {type="item", name="electronic-circuit", amount=1}
     },
+    allow_productivity = true,
     results = {{type="item", name="pollution-filter", amount=1}}
   },
   {
