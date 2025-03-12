@@ -12,7 +12,6 @@ data:extend(
             icon_mipmaps = 4,
             subgroup = "fb-material",
             order = "a-a",
-            hidden = true,
             stack_size = 100
         },
         {

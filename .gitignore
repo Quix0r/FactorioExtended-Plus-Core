@@ -1,3 +1,6 @@
+# Temporary files
+.#*
+
 # Compiled Lua sources
 luac.out
 

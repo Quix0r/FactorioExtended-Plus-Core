@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.4
+Date: 12-03-2025
+  Fixes:
+    - need to unhide titanium ore, else you cannot select it in requester chests or other mods
+      like "furnace recipe selection"
+  Changes:
+    - updated .gitignore
+--------------------------------------------------------------------------------------------------
 Version: 2.0.3
 Date: 06-03-2025
   Features:
