@@ -2,7 +2,7 @@ data:extend({
   {
     type = "item-group",
     name = "FactorioExtended",
-    icon = "__FactorioExtended-Plus-Core__/graphics/group/FEP_64.png",
+    icon = "__FactorioExtended-Plus-Assets__/core/group/FEP_64.png",
     icon_size = 64,
     inventory_order = "f",
     order = "f"

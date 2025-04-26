@@ -7,7 +7,7 @@ data:extend(
         {
             type = "item",
             name = "titanium-ore",
-            icon = "__FactorioExtended-Plus-Core__/graphics/icons/titanium-ore.png",
+            icon = "__FactorioExtended-Plus-Assets__/core/icons/titanium-ore.png",
             icon_size = 64,
             icon_mipmaps = 4,
             subgroup = "fb-material",
@@ -17,7 +17,7 @@ data:extend(
         {
             type = "item",
             name = "titanium-alloy",
-            icon = "__FactorioExtended-Plus-Core__/graphics/icons/titanium-plate.png",
+            icon = "__FactorioExtended-Plus-Assets__/core/icons/titanium-plate.png",
             icon_size = 64,
             icon_mipmaps = 4,
             subgroup = "fb-material",
@@ -27,7 +27,7 @@ data:extend(
         {
             type = "item",
             name = "pollution-filter",
-            icon = "__FactorioExtended-Plus-Core__/graphics/icons/pollution-filter.png",
+            icon = "__FactorioExtended-Plus-Assets__/core/icons/pollution-filter.png",
             icon_size = 32,
             subgroup = "fb-material",
             order = "b-a",
@@ -36,7 +36,7 @@ data:extend(
         {
             type = "repair-tool",
             name = "repair-pack-mk2",
-            icon = "__FactorioExtended-Plus-Core__/graphics/icons/repair-pack-mk2.png",
+            icon = "__FactorioExtended-Plus-Assets__/core/icons/repair-pack-mk2.png",
             icon_size = 64,
             icon_mipmaps = 4,
             subgroup = "fb-tools",
@@ -48,7 +48,7 @@ data:extend(
         {
             type = "repair-tool",
             name = "repair-pack-mk3",
-            icon = "__FactorioExtended-Plus-Core__/graphics/icons/repair-pack-mk3.png",
+            icon = "__FactorioExtended-Plus-Assets__/core/icons/repair-pack-mk3.png",
             icon_size = 64,
             icon_mipmaps = 4,
             subgroup = "fb-tools",
