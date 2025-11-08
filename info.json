@@ -8,7 +8,7 @@
     "homepage": "",
     "description": "",
     "dependencies": [
-        "base >= 2.0.60",
+        "base >= 2.0.72",
         "FactorioExtended-Plus-Assets >= 0.0.1"
     ]
 }
