@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.9
+Date: 04-01-2026
+  Changes:
+    - renamed mod as the old mod owner doesn't respond anymore to my request for ownership transfer
+    - added description
+    - bumped FE+ assets to 0.0.3 (latest version)
+---------------------------------------------------------------------------------------------------
 Version: 2.0.8
 Date: 23-11-2025
   Convention:
